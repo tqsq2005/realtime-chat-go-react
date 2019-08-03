@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfc834c0-b1ee-4b96-a0b8-9d4b9e04cc8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ChatHistory/ChatHistory.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ChatHistory/ChatHistory.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header/Header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -63,19 +58,37 @@
         <entry file="file://$PROJECT_DIR$/frontend/src/api/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/ws/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#14#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/ws/main.go">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="e#14#90#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -84,7 +97,7 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -122,58 +135,6 @@
               <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="go_react" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ws" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="ChatHistory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go_react" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -189,7 +151,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,6 +191,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frontend" />
+    </ignored-roots>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -287,7 +254,7 @@
     <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -297,7 +264,7 @@
     <entry file="file://$PROJECT_DIR$/frontend/src/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -311,10 +278,24 @@
     <entry file="file://$PROJECT_DIR$/backend/ws/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#14#90#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
